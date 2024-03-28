@@ -3,4 +3,5 @@ Trending Phone's companies:
   Samsung
   Oneplus
   Nothing
+  Vivo/oppo
   etc
