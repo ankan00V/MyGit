@@ -1,0 +1,6 @@
+Trending Phone's companies:
+  Iphone
+  Samsung
+  Oneplus
+  Nothing
+  etc
