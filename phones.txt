@@ -4,4 +4,6 @@ Trending Phone's companies:
   Oneplus
   Nothing
   Vivo/oppo
+  poco
+  techno poca
   etc
